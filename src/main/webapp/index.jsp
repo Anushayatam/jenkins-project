@@ -4,7 +4,7 @@
 </head>
 <body>
 <h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
-    Welcome to DevOps Session
+    Welcome to Devops
 </h1>
 </body>
 </html>
