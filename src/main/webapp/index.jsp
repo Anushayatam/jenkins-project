@@ -11,5 +11,8 @@ welcome to Rishi
 <h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
     Tomcat setup complete
 </hi>
+<h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
+    Automation complete
+</hi>
 </body>
 </html>
