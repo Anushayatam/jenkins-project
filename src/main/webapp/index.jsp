@@ -25,6 +25,9 @@ welcome to Rishi,siddu,krishna family
    Rishi is food
 </hi>
 <h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
+Life is waste
+</hi>
+<h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
 Siddu and rishi brothers
 </hi>
 <h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
