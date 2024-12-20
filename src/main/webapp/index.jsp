@@ -6,7 +6,7 @@
 <h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
     Welcome to Devops session
 welcome to hi
-welcome to Rishi
+welcome to Rishi,siddu
 </h1>
 <h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
     Tomcat setup complete
