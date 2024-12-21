@@ -7,19 +7,6 @@
     Welcome to Devops session
 welcome to hi
 welcome to Rishi,siddu,krishna family
-</h1>
-<h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
-    Tomcat setup complete
-</hi>
-<h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
-    Automation complete
-</hi>
-<h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
-   Testing po=hase
-</hi>
-<h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
-   TV is complete
-</hi>
 </hi>
 <h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
    Rishi is food
