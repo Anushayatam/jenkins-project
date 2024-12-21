@@ -7,6 +7,7 @@
     Welcome to Devops session testing automation
 welcome to hi
 welcome to Rishi,siddu,krishna family
+life is happy
 </hi>
 <h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
 dec 2024
